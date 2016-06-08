@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: Dashicons
- * Plugin URI: https://fatpony.me/plugins/dashicons/
+ * Plugin Name: Frontend Dashicons
+ * Plugin URI: https://fatpony.me/plugins/frontend-dashicons-plugin/
  * Description: Load the Dashicons icon font on the front-end of your site.
  * Version: 1.0.0
  * Author: Erica Franz
