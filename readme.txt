@@ -1,4 +1,4 @@
-=== Dashicons ===
+=== Frontend Dashicons ===
 Contributors: ericakfranz
 Tags: dashicons
 Requires at least: 3.8
@@ -17,9 +17,9 @@ Activate and you’re ready to start using Dashicons on the front-end of your site
 **IMPORTANT:** This plugin does not make any shortcodes available to implement Dashicons icons. You can easily use the HTML and CSS options to display icons following the official Dashicons documentation at [https://developer.wordpress.org/resource/dashicons/](https://developer.wordpress.org/resource/dashicons/).
 
 == Installation ==
-1. Install the Dashicons plugin either through your WordPress Plugins screen or by uploading the files to your server via FTP.
-2. Activate Dashicons in the Plugins screen of your WordPress admin.
-3. Begin using Dashicons through your site!
+1. Install the Frontend Dashicons plugin either through your WordPress Plugins screen or by uploading the files to your server via FTP.
+2. Activate Frontend Dashicons in the Plugins screen of your WordPress admin.
+3. Begin using Dashicons icons through your site!
 
 == Frequently Asked Questions ==
 
