@@ -1,6 +1,6 @@
 # FRONTEND DASHICONS WordPress Plugin
 
-Easily load the [Dashicons icon font](https://developer.wordpress.org/resource/dashicons/) on the front-end of your site. If you've ever wanted to use this snazzy little icon font but your active theme doesn't load it on the front-end of your site for you, this plugin is here to save the day!
+Easily load the Dashicons icon font on the front-end of your site. If you've ever wanted to use this snazzy little icon font but your active theme doesn't load it on the front-end of your site for you, this plugin is here to save the day!
 
 Activate and you're ready to start using Dashicons icons on the front-end of your via HTML and CSS.
 
@@ -21,9 +21,6 @@ Please [open an issue](https://github.com/ericakfranz/frontend-dashicons/issues/
 Please contribute using [Github Flow](https://guides.github.com/introduction/flow/). Create a branch, add commits, and [open a pull request](https://github.com/ericakfranz/dashicons/compare/).
 
 ## Changelog
-
-##### 1.0.2
-- Version bump, compatibility with WordPress 6.0.1
 
 ##### 1.0.1
 - Version bump, compatibility with WordPress 4.8.1
